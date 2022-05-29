@@ -3,7 +3,7 @@
 These [800 watt 20A DC-DC converters](https://www.ebay.com/itm/114392846577) are cheap, durable, and effective. I use
 one to convert my eBike battery down from 52 volts to 40 (or sometimes 24, 18, or 12) volts to power various tools.
 
-![Picture of the device](images/s-l1600.jpg?raw=true)
+<img src="s-l1600.jpg" width=400 />
 
 Like many cheap chinese things off of eBay, they don't really have identifiable branding. Some are called "AP-D5830A",
 but not all. There are likely many different factories producing the same reference design, hence some slight variation
